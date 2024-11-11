@@ -6,6 +6,7 @@ Backend: PHP, Node.js, Laravel, Express.js
 Frontend: Vue.js, React.js, Nuxt.js, JavaScript
 Database: MySQL, MongoDB, Firebase Firestore
 Other Tools: Git, GitHub, API integration, RESTful services, Firebase
+
 🔧 Areas of Expertise:
 Full-Stack Web Application Development
 API Development & Documentation
@@ -13,6 +14,7 @@ Scalable and Secure Architecture
 Database Design & Optimization
 Performance Optimization
 Collaborative & Agile Development
+
 🏆 Achievements:
 5+ years of consistent, high-quality project deliveries
 200+ projects completed, with 100% client satisfaction
